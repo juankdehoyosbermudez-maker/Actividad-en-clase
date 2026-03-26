@@ -2,5 +2,5 @@
 
 ## Integrantes
 
-- Juan Camilo De Hoyos Bermudez 1 – ID 1128313
-- Santiago Gomez Rubio 2 – ID 1112810
+- Juan Camilo De Hoyos Bermudez –  ID 1128313
+- Santiago Gomez Rubio –  ID 1112810
