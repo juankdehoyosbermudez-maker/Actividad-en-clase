@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+Contador
+1
+0
+10
+Acumulador
+1
+0
+5
+Ciclo
+1
+0
+9
+1
+7
+Ciclo=0
+4
+1
+41
+'Ingrese la nota del estudiante de 0 a 5'
+5
+1
+4
+nota
+7
+1
+1
+23
+Nota >= 0 and Nota <= 5
+6
+2
+8
+Contador
+10
+Contador+1
+9
+Acumulado
+15
+Acumulador+nota
+13
+4
+1
+32
+'nota invalida intente de nuevo'
+13
+4
+1
+82
+'¿Desea ingresar otra nota? (Presione 0 para SÍ, o cualquier otro número para NO)'
+5
+1
+5
+ciclo
+11
+6
+1
+8
+promedio
+18
+acumulado/contador
+4
+1
+56
+'Total estudiantes: ', Contador, ' Promedio: ', Promedio
+1
